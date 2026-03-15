@@ -10,6 +10,8 @@ https://focus-flow-tarefas.vercel.app/
 
 ---
 
+![FocusFlow Screenshot](./focusflow2.png)
+
 ## 🛠 Tecnologias
 
 - React
@@ -28,6 +30,8 @@ https://focus-flow-tarefas.vercel.app/
 - Excluir tarefas
 - Filtrar tarefas (Todas / Pendentes / Concluídas)
 - Persistência no navegador com **LocalStorage**
+
+![FocusFlow Screenshot](./focusflow1.png)
 
 ---
 
